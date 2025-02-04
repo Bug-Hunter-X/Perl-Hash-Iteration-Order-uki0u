@@ -1,0 +1,1 @@
+This example demonstrates a common issue in Perl where the order of hash iteration is undefined. The code iterates through a hash and prints the key-value pairs. However, the output order might vary between Perl versions or even different runs of the same script.  The solution shows how to maintain order using a sorted array of keys.
